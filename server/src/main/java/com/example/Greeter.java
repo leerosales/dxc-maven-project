@@ -1,3 +1,4 @@
+  
 package com.example;
 
 /**
@@ -12,11 +13,8 @@ public class Greeter {
 
   }
 
-  /**
-   * @param someone Nombre de un empleado
-   * @return Cadena tipo String
-   */
-  public final String greet(final String someone) {
+  //TODO: Add javadoc comment
+  public String greet(String someone) {
     return String.format("Hello, %s!", someone);
   }
 }
