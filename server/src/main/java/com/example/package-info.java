@@ -1,5 +1,4 @@
 /**
- * Este paquete es creado para gestionar los 
- * métodos de las operaciones de venta un canal.
+ * Descripcion del paquete.
  */
  package com.example;
